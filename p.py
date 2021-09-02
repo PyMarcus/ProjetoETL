@@ -1,3 +1,6 @@
+
+# script para tratar alguns entraves para a etapa de validação
+
 with open('ocorrencia.csv', 'r') as f:
     arquivo = f.readlines()
     with open('ocorrencia2.csv', 'w') as f:
