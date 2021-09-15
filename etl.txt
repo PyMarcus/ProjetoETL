@@ -1,0 +1,16 @@
+# etl = processo muito usado na análise de dados
+# etl = extracao, transformação e load de dados
+# o objetivo é extrair, tratar e tornar adequada a visualização desses dados para facilitar a tomada de decisões
+# os dados podem ser processados em lote, ou em tempo real
+
+
+# visao geral do processo de etl
+# 1 os dados ficam contidos em data sources = várias fontes de dados
+# 2 os dados passam pelo processo de etl (processo de data flow ou pipeline)
+# 3 os dados são carregados em data warehouse(repositório central q é usado para analisar dados)-tipo um super bancodeda
+
+
+# como ferramentas, é bem usado o pandas e o jupyter notebook, pois, permite o uso de markdowns e também o anaconda
+#n1, n2, n3 = [int(input()) for n in range(3)]
+# os dados sao pegos da força aérea brasileira, são dados csv e que tem ocorrencias ,modelos de aeronaves etc
+
